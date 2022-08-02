@@ -1,0 +1,163 @@
+No,ID,gender,age bucket,region
+1,person1001,female,65+,Grand Est
+2,person1002,female,18-24,Baden-Württemberg
+3,person1005,male,55-64,Grand Est
+4,person1010,female,65+,Baden-Württemberg
+5,person1021,female,45-54,Baden-Württemberg
+6,person1034,male,55-64,Baden-Württemberg
+7,person1035,male,65+,Baden-Württemberg
+8,person1039,male,18-24,Baden-Württemberg
+9,person1047,female,25-34,Baden-Württemberg
+10,person1056,male,55-64,Grand Est
+11,person1063,male,35-44,Baden-Württemberg
+12,person1065,male,55-64,Baden-Württemberg
+13,person1068,female,18-24,Grand Est
+14,person1071,male,35-44,Grand Est
+15,person1074,female,35-44,Baden-Württemberg
+16,person1079,female,18-24,Grand Est
+17,person1083,male,55-64,Grand Est
+18,person1094,female,65+,Baden-Württemberg
+19,person1097,male,45-54,Baden-Württemberg
+20,person1101,female,18-24,Baden-Württemberg
+21,person1104,female,55-64,Baden-Württemberg
+22,person1115,female,25-34,Baden-Württemberg
+23,person1120,male,55-64,Grand Est
+24,person1148,male,25-34,Grand Est
+25,person1152,female,35-44,Grand Est
+26,person1159,male,65+,Baden-Württemberg
+27,person1161,female,18-24,Baden-Württemberg
+28,person1171,male,65+,Grand Est
+29,person1175,female,25-34,Baden-Württemberg
+30,person1178,male,55-64,Baden-Württemberg
+31,person1184,male,45-54,Baden-Württemberg
+32,person1188,male,45-54,Baden-Württemberg
+33,person1190,male,18-24,Grand Est
+34,person1197,male,65+,Grand Est
+35,person1212,female,65+,Grand Est
+36,person1213,female,65+,Grand Est
+37,person1217,female,65+,Baden-Württemberg
+38,person1225,female,18-24,Grand Est
+39,person1235,female,35-44,Grand Est
+40,person1238,female,65+,Grand Est
+41,person1245,male,65+,Baden-Württemberg
+42,person1246,male,65+,Grand Est
+43,person1247,female,35-44,Grand Est
+44,person1250,female,25-34,Baden-Württemberg
+45,person1253,female,18-24,Grand Est
+46,person1254,female,35-44,Grand Est
+47,person1271,female,65+,Baden-Württemberg
+48,person1272,other,45-54,Grand Est
+49,person1276,female,35-44,Grand Est
+50,person1277,female,18-24,Baden-Württemberg
+51,person1281,female,18-24,Grand Est
+52,person1282,female,55-64,Grand Est
+53,person1287,male,65+,Grand Est
+54,person1289,male,25-34,Grand Est
+55,person1294,female,55-64,Grand Est
+56,person1298,male,65+,Grand Est
+57,person1320,male,25-34,Grand Est
+58,person1328,female,65+,Baden-Württemberg
+59,person1333,male,65+,Grand Est
+60,person1335,male,65+,Grand Est
+61,person1344,female,35-44,Grand Est
+62,person1347,female,55-64,Baden-Württemberg
+63,person1350,female,65+,Baden-Württemberg
+64,person1361,male,25-34,Grand Est
+65,person1363,male,35-44,Grand Est
+66,person1366,male,65+,Baden-Württemberg
+67,person1373,female,25-34,Grand Est
+68,person1378,male,45-54,Grand Est
+69,person1379,female,55-64,Grand Est
+70,person1385,male,18-24,Grand Est
+71,person1388,male,55-64,Baden-Württemberg
+72,person1392,female,25-34,Baden-Württemberg
+73,person1399,male,65+,Baden-Württemberg
+74,person1402,female,45-54,Grand Est
+75,person1403,female,35-44,Grand Est
+76,person1415,female,55-64,Baden-Württemberg
+77,person1420,female,35-44,Baden-Württemberg
+78,person1423,male,45-54,Baden-Württemberg
+79,person1437,female,35-44,Baden-Württemberg
+80,person1439,female,45-54,Baden-Württemberg
+81,person1449,female,55-64,Grand Est
+82,person1452,female,18-24,Grand Est
+83,person1455,female,35-44,Baden-Württemberg
+84,person1459,male,25-34,Baden-Württemberg
+85,person1473,male,35-44,Grand Est
+86,person1475,male,55-64,Grand Est
+87,person1488,male,25-34,Grand Est
+88,person1493,male,25-34,Baden-Württemberg
+89,person1498,male,35-44,Baden-Württemberg
+90,person1499,female,65+,Grand Est
+91,person1504,female,35-44,Baden-Württemberg
+92,person1506,male,25-34,Grand Est
+93,person1529,female,55-64,Grand Est
+94,person1536,female,65+,Grand Est
+95,person1541,male,25-34,Grand Est
+96,person1556,female,25-34,Grand Est
+97,person1563,male,35-44,Baden-Württemberg
+98,person1571,female,65+,Baden-Württemberg
+99,person1584,male,18-24,Grand Est
+100,person1614,female,18-24,Grand Est
+101,person1620,female,65+,Grand Est
+102,person1624,female,55-64,Baden-Württemberg
+103,person1630,male,25-34,Grand Est
+104,person1648,female,18-24,Baden-Württemberg
+105,person1650,female,65+,Baden-Württemberg
+106,person1652,male,55-64,Baden-Württemberg
+107,person1664,male,55-64,Baden-Württemberg
+108,person1665,male,45-54,Baden-Württemberg
+109,person1670,male,35-44,Grand Est
+110,person1679,female,65+,Baden-Württemberg
+111,person1688,male,18-24,Grand Est
+112,person1689,male,45-54,Baden-Württemberg
+113,person1693,male,65+,Grand Est
+114,person1695,female,55-64,Baden-Württemberg
+115,person1698,male,18-24,Grand Est
+116,person1707,female,45-54,Grand Est
+117,person1712,female,55-64,Grand Est
+118,person1714,male,35-44,Grand Est
+119,person1721,male,45-54,Baden-Württemberg
+120,person1723,male,35-44,Baden-Württemberg
+121,person1729,female,65+,Grand Est
+122,person1736,female,45-54,Grand Est
+123,person1738,male,65+,Baden-Württemberg
+124,person1742,male,65+,Baden-Württemberg
+125,person1743,female,65+,Baden-Württemberg
+126,person1744,female,18-24,Baden-Württemberg
+127,person1747,female,18-24,Baden-Württemberg
+128,person1755,male,35-44,Baden-Württemberg
+129,person1766,male,65+,Baden-Württemberg
+130,person1767,female,35-44,Grand Est
+131,person1768,male,25-34,Baden-Württemberg
+132,person1775,female,55-64,Grand Est
+133,person1789,female,35-44,Baden-Württemberg
+134,person1800,female,45-54,Baden-Württemberg
+135,person1806,female,25-34,Grand Est
+136,person1811,female,65+,Baden-Württemberg
+137,person1813,male,55-64,Baden-Württemberg
+138,person1848,male,65+,Grand Est
+139,person1850,female,25-34,Baden-Württemberg
+140,person1851,female,35-44,Grand Est
+141,person1852,female,65+,Grand Est
+142,person1853,female,55-64,Baden-Württemberg
+143,person1869,male,45-54,Grand Est
+144,person1870,female,18-24,Grand Est
+145,person1876,female,65+,Baden-Württemberg
+146,person1885,female,25-34,Baden-Württemberg
+147,person1888,female,35-44,Grand Est
+148,person1892,male,18-24,Baden-Württemberg
+149,person1899,male,18-24,Baden-Württemberg
+150,person1903,male,55-64,Grand Est
+151,person1910,male,25-34,Grand Est
+152,person1911,male,35-44,Baden-Württemberg
+153,person1921,male,55-64,Grand Est
+154,person1929,male,25-34,Grand Est
+155,person1940,female,65+,Grand Est
+156,person1948,female,25-34,Baden-Württemberg
+157,person1953,male,45-54,Baden-Württemberg
+158,person1961,female,25-34,Grand Est
+159,person1973,female,35-44,Grand Est
+160,person1977,male,25-34,Grand Est
+161,person1982,female,55-64,Baden-Württemberg
+162,person1998,female,55-64,Grand Est

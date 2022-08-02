@@ -1,0 +1,13 @@
+setting_name,setting_value,description,type
+input_filename,applicants.csv,Full name of applicants input file,characters
+par_filename,categories.csv,Full name of categories input file,characters
+assembly_size,40,Number of CA participants,numeric
+draws_number,6,Number or independent draws,numeric
+allow_duplicates,0,Allow repetitions of applicants in particular draws(0-false/1-true),logical
+SA_max_time,600,Maximum time in [s] spent for searching for most optimal set(per draw),numeric
+SA_temperature,50,Starting temperature parameter for SA,numeric
+SA_seed,-1,Random seed integer. Negative integer value that can be set to initialize the internal random generator.,numeric
+SA_max_iterations,10000,Integer for maximum iterations count,numeric
+SA_nb_stop_imp,100,Integer. The program will stop when there is no any improvement in nb.stop.improvement steps ,numeric
+SA_threshold_stop,0,Iteration will stop when the expected evaluation function value is reached,numeric
+SA_max_call,10000000,Maximum number of call of the objective function,numeric
