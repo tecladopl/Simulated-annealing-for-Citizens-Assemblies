@@ -1,2 +1,4 @@
 No,ID,char1,char2
-1,x1,1,x
+1,x1,a1,b1
+2,x2,a2,b1
+3,x3,a1,b2

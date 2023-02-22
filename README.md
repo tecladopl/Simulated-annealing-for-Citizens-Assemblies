@@ -5,7 +5,7 @@ R script with simulated annealing(GenSA) implementation for randomized selection
 ![Schema](/assets/scene.gif "")
 
 We are going to find the answer for the question - How to draw a group of people from some population in a random way, but make sure that group represents the population with given characteristics exactly or is the closest solution.
-###Simulated annealing
+### Simulated annealing
 Simulated annealing is a metaheuristic algorithm which means it is a conception of a way to solve a particular problem, not the solution itself. Owes its name to metalurgic technique which is similar to. 
 Modus operandi overview: If we have to solve an algorithmic problem we need to introduce a mathematical evaluation function with one result. This result allows us to rate the drawn set of suggested solutions. 
 We are drawing the first set from the whole population and defining it as the current best solution. When a drawn set of numbers is not satisfying, which can be measured with evaluation function output, another set is drawn, but it has to be close to the previous draw. If the new one is better(or “not very worse”) we are marking it as the new best current solution. We are repeating this until we achieve objectives or when the situation is not getting better for many continuous draws.
@@ -39,9 +39,18 @@ Scripts may end in cases:
 * temperature reaches 0,
 * ideal composition was found,
 * maximum time or number or iterations was exceeded.
-
-
 This is the reason why it is important to choose the right parameters.
+## Instructions
+### Main script
+* Running script needs R software installed 
+* Input data and settings file are stored in 'data_and_settings' directory and templates for input data can be found inside 'templates' folder
+* Settings might be provided by settings.xlsx|csv file or directly at the beginning of the script code 'CA-SA.r'
+* 'CA-SA.r' needs at least applicants and categories data files before run
+* Output data will land in 'results' directory
+### Temperature designation
+* Uses same settings and input files as the main script
+* Temperatures can be edited in 'data_and_settings/temperature_thresholds.xlsx|.csv' file
+
 ## Bibliography
 
 Generalized Simulated Annealing (The GenSA Package), Gubian S., Xiang Y., Suomela B., Hoeng J., CRAN Project, online: https://cran.r-project.org/web/packages/GenSA/GenSA.pdf
